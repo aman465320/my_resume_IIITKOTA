@@ -1,0 +1,83 @@
+{
+    "basics": {
+        "name": "Aman Mathur",
+        "label": "Student",
+        "picture": "https://avatars.githubusercontent.com/u/76250569?s=400&u=0dc37bdf22d2d807f69bf9cb0d93f3eaae17ebc3&v=4",
+        "email": "2020kuec2058@iiitkota.ac.in",
+        "phone": "7877425167",
+        "website": "https://github.com/aman465320",
+        "summary": "Hello Everyone. I am Aman Mathur, currently pursuing Electronics and Communication Engineering at Indian Institute of Information Technology, Kota. I live in Jaipur ,Rajasthan. I do coding in C/C++ and also learning Web Development and Data Stuructures and Algorithms. Furthermore, I also give contests on  Coderforces and Codechef. I want to become a Software Development Engineer in a Product-based company.",
+        "location": {
+            "address": "Jaipur , Rajasthan",
+            "postalCode": "302020",
+            "city": "Jaipur",
+            "countryCode": "India",
+            "region": "Rajasthan"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "AmanMat40448332",
+                "url": "https://twitter.com/AmanMat40448332"
+            },
+            {
+                "network": "Github",
+                "username": "aman465320",
+                "url": "https://github.com/aman465320"
+            },
+            {
+                "network": "linkedin",
+                "username": "Aman Mathur",
+                "url": "https://www.linkedin.com/in/aman-mathur-a0b6091b9/"
+            },
+            {
+                "network": "Instagram",
+                "username": "mathur_aman_2612",
+                "url": "https://www.instagram.com/mathur_aman_2612/"
+            }
+        ]
+    },
+    "education": [
+        {
+            "institution": "Indian Institute of Information technology,kota",
+            "area": "Engineering",
+            "studyType": "Bachelor of Technology",
+            "startDate": "07-12-2020",
+            "endDate": "May 2024",
+            "courses": [
+                "Electronics and Communication Engineering"
+            ]
+        }
+    ],
+    
+    "publications": [
+        {
+            "title": "My Resume",
+            "details": "This would take you to a website which contains my resume comprising of the first semester.",
+            "link": "https://aman465320.github.io/RESUME/"
+        }
+    ],
+    "skills": [
+        {
+            "level": "Intermediate",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "C",
+                "C++"
+            ]
+        }
+    ],
+    "interests": [
+        {
+            "name": "Sports",
+            "keywords": [
+                "Football",
+                "Cricket",
+                "Long Jump",
+                "Badminton",
+                "Volley Ball"
+            ]
+        }
+    ]}
