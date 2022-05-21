@@ -68,7 +68,8 @@
                 "C++",
                 "Bootstrap",
                 "Node.js",
-                "Express.js"
+                "Express.js",
+                "MongoDB"
             ]
         }
     ],
