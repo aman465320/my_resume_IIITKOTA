@@ -69,6 +69,7 @@
                 "Bootstrap",
                 "Node.js",
                 "Express.js",
+                "EJS",
                 "MongoDB"
             ]
         }
